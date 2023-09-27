@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34003.232
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-github-actions", "learn-github-actions\learn-github-actions.csproj", "{76036587-6209-475E-9C68-384028E02196}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn-github-actions", "learn-github-actions\learn-github-actions.csproj", "{2223A800-29EE-4D2E-9259-E004F7750963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{76036587-6209-475E-9C68-384028E02196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{76036587-6209-475E-9C68-384028E02196}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{76036587-6209-475E-9C68-384028E02196}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{76036587-6209-475E-9C68-384028E02196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2223A800-29EE-4D2E-9259-E004F7750963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2223A800-29EE-4D2E-9259-E004F7750963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2223A800-29EE-4D2E-9259-E004F7750963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2223A800-29EE-4D2E-9259-E004F7750963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {49490317-9128-49F1-A058-280BCB6C26DF}
+		SolutionGuid = {FAB00FE8-D380-4901-899F-586A2C5DF85C}
 	EndGlobalSection
 EndGlobal
