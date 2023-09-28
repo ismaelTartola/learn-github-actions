@@ -30,7 +30,7 @@ jobs:
         run: dotnet build ./learn-github-actions.sln --configuration Release --no-restore
         
       - name: Publish
-        run: -c Release --no-build -o ./learn-github-actions.sln -r linux-x64 --self-contained true /p:UseAppHost=true
+        run: dotnet publish -c Release --no-build -o ./learn-github-actions.sln -r linux-x64 --self-contained true /p:UseAppHost=true
 
       - name: Deployment
         uses: azure/webapps-deploy@v2
