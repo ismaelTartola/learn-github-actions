@@ -15,7 +15,10 @@ namespace learn_github_actions
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
-            
+
+            app.UseSwagger();
+            app.UseSwaggerUI();
+
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
